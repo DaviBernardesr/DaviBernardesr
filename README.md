@@ -1,6 +1,3 @@
-
-Aqui está o conteúdo para o seu perfil no GitHub, baseado nas informações que você forneceu:
-
 👋 Olá, Tudo bem com você?
 Seja bem-vindo e sinta-se à vontade! Eu me chamo Davi Bernardes. Sou locutor de rádio há mais de 5 anos e também um amante da tecnologia, buscando evoluir cada vez mais em meus conhecimentos!
 
