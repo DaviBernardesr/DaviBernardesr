@@ -1,7 +1,7 @@
 👋 Olá, Tudo bem com você?
 Seja bem-vindo e sinta-se à vontade! Eu me chamo Davi Bernardes. Sou locutor de rádio há mais de 5 anos e também um amante da tecnologia, buscando evoluir cada vez mais em meus conhecimentos!
 
-👨💻 Graduando de Sistemas de Informação no 6º período na UFV - Campus Rio Paranaíba, com uma grande paixão por tecnologia e desenvolvimento de software.
+👨💻 Graduando de Sistemas de Informação na UFV - Campus Rio Paranaíba, com uma grande paixão por tecnologia e desenvolvimento de software.
 
 🐱 GitHub: DaviBernardesr
 
