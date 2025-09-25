@@ -12,5 +12,3 @@ Seja bem-vindo e sinta-se à vontade! Eu me chamo Davi Bernardes. Sou locutor de
 🔍 Em busca de oportunidades: Estou interessado em estágios ou projetos desafiadores que me permitam aplicar e expandir meu conhecimento em desenvolvimento de software e tecnologias emergentes.
 
 🤝 Aberto a colaborações: Adoraria conectar com profissionais da área de tecnologia e colaborar em projetos!
-
-⚡ Curiosidade: Atuo como Radialista a mais 5 anos em Rio Paranaíba, faço diversos cerimôniais, eventos e reportagens também e, paralelo a isso, sou apaixonado pelo mundo da tecnologia.
