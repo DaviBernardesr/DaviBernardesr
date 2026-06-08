@@ -6,7 +6,7 @@ Trabalho na Dhara Mobile, onde mexo com back-end em Java (Spring Boot + Hibernat
 
 ---
 
-### Algumas coisas que tenho feito
+### Algumas Projetos
 
 - **[music-downloader](https://github.com/DaviBernardesr/music-downloader)** — app desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists
 - **[promos_promoter](https://github.com/DaviBernardesr/promos_promoter)** — sistema de gerenciamento de promoções e sorteios para rádios (TypeScript)
@@ -16,5 +16,3 @@ Trabalho na Dhara Mobile, onde mexo com back-end em Java (Spring Boot + Hibernat
 ---
 
 Java · Spring Boot · Hibernate · Angular · Node.js · Python · TypeScript · PHP · C++
-
-Se tiver algum projeto interessante, pode entrar em contato.
