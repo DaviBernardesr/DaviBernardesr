@@ -1,8 +1,8 @@
 # Davi Bernardes
 
-Estudante de Sistemas de Informação na UFV — Campus Rio Paranaíba.
+Sistemas de Informação na UFV — Campus Rio Paranaíba.
 
-Trabalho na Dhara Mobile, onde mexo com back-end em Java (Spring Boot + Hibernate) e front-end em Angular com Node. Fora do trabalho, construo ferramentas com Python, TypeScript e C++ — automação, apps desktop, análise de dados.
+Trabalho atualmente na Dhara Mobile, desenvolvem o back-end em Java (Spring Boot + Hibernate) e front-end em Angular com Node. Fora do trabalho, construo ferramentas com Python, TypeScript e C++ — automação, apps desktop, análise de dados.
 
 ---
 
