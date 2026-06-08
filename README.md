@@ -2,7 +2,7 @@
 
 Estudante de Sistemas de Informação na UFV — Campus Rio Paranaíba.
 
-Trabalho com Python, TypeScript e C++, dependendo do que o projeto pede. Gosto de construir coisas que funcionam de verdade: ferramentas de automação, sistemas web, apps desktop e análise de dados.
+Trabalho na Dhara Mobile, onde mexo com back-end em Java (Spring Boot + Hibernate) e front-end em Angular com Node. Fora do trabalho, construo ferramentas com Python, TypeScript e C++ — automação, apps desktop, análise de dados.
 
 ---
 
@@ -15,6 +15,6 @@ Trabalho com Python, TypeScript e C++, dependendo do que o projeto pede. Gosto d
 
 ---
 
-Python · TypeScript · JavaScript · PHP · C++
+Java · Spring Boot · Hibernate · Angular · Node.js · Python · TypeScript · PHP · C++
 
 Se tiver algum projeto interessante, pode entrar em contato.
