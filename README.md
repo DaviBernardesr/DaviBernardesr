@@ -6,7 +6,7 @@ Trabalho atualmente na Dhara Mobile, desenvolvem o back-end em Java (Spring Boot
 
 ---
 
-### Algumas Projetos
+### Alguns Projetos
 
 - **[music-downloader](https://github.com/DaviBernardesr/music-downloader)** — app desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists
 - **[promos_promoter](https://github.com/DaviBernardesr/promos_promoter)** — sistema de gerenciamento de promoções e sorteios para rádios (TypeScript)
