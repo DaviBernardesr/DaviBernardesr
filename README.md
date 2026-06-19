@@ -18,6 +18,8 @@
 ### Sobre
 
 Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
+Fora do trabalho construo ferramentas com Python e C++.
+Também auxilio em implementações mobile.
 
 
 ---
@@ -27,9 +29,8 @@ Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -42,7 +43,7 @@ Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
 
 | Projeto | Descrição |
 |---|---|
-| [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` e mais` |
+| [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` `Tkinter` |
 | [video-downloader](https://github.com/DaviBernardesr/video-downloader) | Ferramenta de linha de comando para baixar vídeos do YouTube · `Python` `yt-dlp` |
 
 ### Projetos acadêmicos
