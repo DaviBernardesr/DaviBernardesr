@@ -42,7 +42,7 @@ Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
 
 | Projeto | Descrição |
 |---|---|
-| [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` `Tkinter` |
+| [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` e mais` |
 | [video-downloader](https://github.com/DaviBernardesr/video-downloader) | Ferramenta de linha de comando para baixar vídeos do YouTube · `Python` `yt-dlp` |
 
 ### Projetos acadêmicos
