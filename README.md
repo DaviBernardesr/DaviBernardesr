@@ -55,8 +55,3 @@ Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
 | [Mini-Curso-ML-USP](https://github.com/DaviBernardesr/Mini-Curso-Marchine-Learning-USP) | Exercícios do minicurso de Machine Learning da USP · `Python` `scikit-learn` `pandas` |
 
 ---
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaviBernardesr&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBernardesr&layout=compact&theme=default&hide_border=true" />
-</p>
