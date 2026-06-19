@@ -43,6 +43,8 @@ Também auxilio em implementações mobile.
 
 | Projeto | Descrição |
 |---|---|
+| [promos_promoter v2](https://github.com/DaviBernardesr/promos_promoter) ↗ [sorteador.ebnsistemas.com](https://sorteador.ebnsistemas.com) | Sistema de gerenciamento de promoções e sorteios para rádios — em produção · `Node.js` `Express` `TypeScript` `Prisma` `React` `TailwindCSS` `Docker` |
+| promos_promoter v1 | Primeira versão do sistema, desenvolvida e entregue em produção · `HTML` `CSS` `JavaScript` |
 | [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` `Tkinter` |
 | [video-downloader](https://github.com/DaviBernardesr/video-downloader) | Ferramenta de linha de comando para baixar vídeos do YouTube · `Python` `yt-dlp` |
 
