@@ -18,7 +18,7 @@
 ### Sobre
 
 Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
-Fora do trabalho construo ferramentas com Python e C++.
+Fora do trabalho construo ferramentas com Python e Java e utilizando Frameworks.
 Também auxilio em implementações mobile.
 
 
