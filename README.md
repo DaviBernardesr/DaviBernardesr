@@ -18,7 +18,7 @@
 ### Sobre
 
 Desenvolvedor back-end e full stack, atualmente na **Dhara Mobile**.
-Fora do trabalho construo ferramentas com Python e Java e utilizando Frameworks.
+Fora do trabalho construo ferramentas com Java, Python e também utilizando Frameworks e criando API's.
 Também auxilio em implementações mobile.
 
 
@@ -45,7 +45,7 @@ Também auxilio em implementações mobile.
 |---|---|
 | [promos_promoter v2](https://github.com/DaviBernardesr/promos_promoter) ↗ [sorteador.ebnsistemas.com](https://sorteador.ebnsistemas.com) | Sistema de gerenciamento de promoções e sorteios para rádios — rodando em produção · `Node.js` `Express` `TypeScript` `Prisma` `React` `TailwindCSS` `Docker` `API Rest` |
 | [promos_promoter v1](https://github.com/DaviBernardesr/Sorteador-Online) | Primeira versão do sistema, desenvolvida e entregue em produção · `HTML` `CSS` `JavaScript` |
-| [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` `Tkinter` |
+| [music-downloader](https://github.com/DaviBernardesr/music-downloader) | App desktop para baixar músicas do YouTube em MP3, com player integrado e suporte a playlists · `Python` `yt-dlp` `PyQt6` |
 | [video-downloader](https://github.com/DaviBernardesr/video-downloader) | Ferramenta de linha de comando para baixar vídeos do YouTube · `Python` `yt-dlp` |
 
 ### Projetos acadêmicos
