@@ -1,7 +1,7 @@
 <h1 align="center">Davi Bernardes</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack</b> · Java • Spring Boot • Angular • Flutter
+  <b>Desenvolvedor Full-Stack</b> · Java • Spring Boot • Angular
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ### Sobre
 
-Desenvolvedor full-stack na **Dhara Mobile**, onde trabalho de ponta a ponta:
-back-end em **Java/Spring Boot**, front em **Angular** e apps mobile em **Flutter** —
-construindo APIs, integrações e sistemas que rodam em produção.
+Desenvolvedor full-stack na **Dhara Mobile**, com foco em back-end em
+**Java/Spring Boot** e front em **Angular** — construindo APIs, integrações e
+sistemas que rodam em produção.
 
 Em produção, um sistema de sorteios para rádios; nos projetos pessoais,
 ferramentas de automação em Python.
@@ -40,12 +40,11 @@ ferramentas de automação em Python.
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-**Front-end & Mobile**
+**Front-end**
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 **Dados & Infra**
